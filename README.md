@@ -8,10 +8,10 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Table of Contents
-* Multiple Regression Model for predicting number of bikes rented (#general-information)
-* Python:statisticsModel and sklearn (#technologies-used)
-* Conclusions(#conclusions)
-* Acknowledgements(#acknowledgements)
+* General Information 
+* Technologies Used: Python-statisticsModel and sklearn 
+* Conclusions
+* Acknowledgements
 
 
 ## General Information
@@ -37,7 +37,7 @@ Provide general information about your project here.
 
 ## Acknowledgements
 - This Project is a part of Upgrad ML assignment
-- The github link to this project is .
+- The github link to this project is git@github.com:seemasim/RentalBike_assignment.git
 
 
 ## Contact
